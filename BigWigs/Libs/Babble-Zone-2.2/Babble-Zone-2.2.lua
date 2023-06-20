@@ -174,6 +174,14 @@ BabbleZone:RegisterTranslations("enUS", function()
 		["Caverns of Time"] = true,
 		["Zul'Aman"] = true,
 		["Battlegrounds"] = true,
+
+		-- Turtle WoW
+		["Amani'alor"] = true,
+		["Tel'Abim"] = true,
+		["Alah'thalas"] = true,
+		["Lapidis Isle"] = true,
+		["Gillijim's Isle"] = true,
+		["Scarlet Enclave"] = true,
 	}
 end)
 
