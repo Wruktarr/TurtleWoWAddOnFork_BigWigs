@@ -175,12 +175,15 @@ BabbleZone:RegisterTranslations("enUS", function()
 		["Zul'Aman"] = true,
 		["Battlegrounds"] = true,
 
-		-- Turtle WoW
+        -- Turtle WoW
 		["Amani'alor"] = true,
 		["Tel'Abim"] = true,
 		["Alah'thalas"] = true,
+        ["Alah'Thalas"] = true,
+        ["Thalassian Highlands"] = true,
 		["Lapidis Isle"] = true,
 		["Gillijim's Isle"] = true,
+        ["Gilneas"] = true,
 		["Scarlet Enclave"] = true,
 	}
 end)
