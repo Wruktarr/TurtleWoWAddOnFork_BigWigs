@@ -178,6 +178,7 @@ BabbleZone:RegisterTranslations("enUS", function()
         -- Turtle WoW
 		["Amani'alor"] = true,
         ["Amani'Alor"] = true,
+        ["Balor"] = true,
 		["Tel'Abim"] = true,
 		["Alah'thalas"] = true,
         ["Alah'Thalas"] = true,
