@@ -186,6 +186,7 @@ BabbleZone:RegisterTranslations("enUS", function()
 		["Lapidis Isle"] = true,
 		["Gillijim's Isle"] = true,
         ["Gilneas"] = true,
+        ["Northwind"] = true,
 		["Scarlet Enclave"] = true,
 	}
 end)
